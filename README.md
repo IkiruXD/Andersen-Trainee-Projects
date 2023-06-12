@@ -1,4 +1,5 @@
 # Andersen-Trainee-Projects
+Repositories was recreated after problem with github account.
 Projects from my Trainee course in Andersen company
 Was completed 5 tasks.
 Task 1 - My ArrayList realization.
